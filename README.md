@@ -8,4 +8,4 @@ A C++ project that analyzes the results of the Quick Sort algorithm and displays
 
 The application will be running through the console.
 
-Note: By default, the size 'n' of the 3 arrays will be 100. That can be adjusted in the Main.cpp file of the project.
+Note: By default, the size 'n' of the 3 arrays will be 100. That can be adjusted in the Main.cpp file of the project!!!
